@@ -2,4 +2,4 @@
 
 ## An exercise in HTML
 
-[Final Version](https://garwin00.github.io/john-baskerville/)
+[Version One](https://garwin00.github.io/john-baskerville/)
