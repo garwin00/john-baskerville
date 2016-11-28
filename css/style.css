@@ -111,3 +111,10 @@ nav ul li{
 nav a:hover {
   border-bottom: none;
 }
+
+img {
+  display: block;
+  margin: auto;
+  padding: 0;
+  max-width: 100%;
+}
