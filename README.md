@@ -14,3 +14,6 @@
 [Version Four - Tables](https://garwin00.github.io/john-baskerville/baskerville_four.html)
 
 [Version Five - Images](https://garwin00.github.io/john-baskerville/baskerville_five.html)
+
+### 28th Novenber
+[Version Six - Initial CSS](https://garwin00.github.io/john-baskerville/baskerville_six.html)
