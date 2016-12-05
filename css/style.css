@@ -115,3 +115,34 @@ img {
   padding: 0;
   max-width: 100%;
 }
+
+table {
+  width: 100%;
+  margin: auto;
+  display: table;
+  border-collapse: collapse;
+  border-spacing: 2px;
+  margin-bottom: 1.5em;
+}
+
+caption {
+  margin-bottom: 1.5em;
+  text-transform: uppercase;
+}
+
+th {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: normal;
+  text-align: left;
+  background: #c06;
+}
+
+th, td {
+  padding: .6em;
+}
+
+table, td {
+  background: rgba(0, 0, 0, .1);
+  border: 1px solid #f0f0f0;
+}
