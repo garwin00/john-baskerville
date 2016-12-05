@@ -55,17 +55,14 @@ blockquote {
   font-size: 1.75em;
   line-height: 1.5em
   margin: 0;
+  hanging-punctuation: first;  /* don't know why this isn't working, please help*/
+  text-indent: -0.5em;
 }
 
 blockquote cite {
   font-size: .75em;
 }
 
-blockquote p {
-  color:#777;
-  hanging-punctuation: first;
-  text-indent: -0.5em;
-}
 
 .anchor {
   text-transform: uppercase;
