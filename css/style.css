@@ -2,12 +2,13 @@ body {
   margin:auto;
   width:75%;
   max-width:700px;
-  font-size:100%;
-  font-family:Georgia, Times, 'Times New Roman', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   color:#333;
   background-color: #f0f0f0;
   line-height: 1.8em;
 }
+
+/* typography */
 
 h1, h2, h3  {
   font-weight: normal;
@@ -87,6 +88,8 @@ a:hover {
   color: aqua;
 }
 
+/* navigation */
+
 nav {
   padding: 1em 0;
   border-top: 1px solid #333;
@@ -109,6 +112,8 @@ nav a:hover {
   border-bottom: none;
 }
 
+/* images */
+
 img {
   display: block;
   margin: auto;
@@ -116,6 +121,7 @@ img {
   max-width: 100%;
 }
 
+/* table */
 table {
   width: 100%;
   margin: auto;
@@ -145,4 +151,55 @@ th, td {
 table, td {
   background: rgba(0, 0, 0, .1);
   border: 1px solid #f0f0f0;
+}
+
+
+/* tablet */
+
+@media (max-width: 50em) {
+  body {
+    width: 85%;
+  }
+
+
+article {
+    width: 95%;
+    padding: 0.5em;
+  }
+}
+
+/* phone */
+
+@media (max-width: 35em) {
+  body {
+    margin: auto 0;
+    width:100%;
+    font-size: 115%;
+  }
+
+  table {
+    font-size: 115%;
+  }
+
+  article {
+    width: 90%;
+  }
+
+  h1 {
+    font-size: 3em;
+    line-height: 1.3em;
+  }
+
+  blockquote {
+    font-size: 1.25em;
+    padding: 0;
+    line-height: 1.6em;
+  }
+
+  hgroup h2 {
+    font-size: 1.5em;
+    padding-top: 0.5em;
+  }
+
+
 }

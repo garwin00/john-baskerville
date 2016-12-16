@@ -1,0 +1,143 @@
+body {
+  margin:auto;
+  width:75%;
+  max-width:700px;
+  line-height: 1.8em;
+}
+
+hr {
+  margin: 4em 0;
+  height: 1px;
+  color: #f06;
+  background-color: #f06;
+  border: 0 none;
+}
+
+h1, h2, p {
+  font-weight: normal;
+}
+
+h3 {
+  text-transform: uppercase;
+  line-height: 1.5em;
+}
+
+blockquote {
+    margin: 0;
+    font-weight: normal;
+    font-size: 1.5em;
+    font-style: italic;
+    padding: 1.5em 0 0 0;
+    color: grey;
+  }
+
+.one {
+  font-family: 'Libre Baskerville', serif;
+}
+
+.one header h1 {
+  font-size: 4em;
+  margin-top: .5em;
+  margin-bottom: .1em;
+}
+
+.one p {
+  margin: 1em 0;
+  line-height: 1.5em;
+}
+
+.one h2 {
+  font-size: 2.25em;
+  line-height: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.one .intro {
+  font-size: 1.25em;
+  line-height: 1.5em;
+  margin-bottom: 2em;
+}
+
+.one header h2 {
+  font-style: italic;
+  font-size: 1.8em;
+}
+
+cite {
+  font-size: .5em;
+  line-height: 5em;
+}
+
+.one .first{
+  float: left;
+  font-size: 4.5em;
+  line-height: .5em;
+  margin-right: 0px;
+}
+
+.two {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.two header h1 {
+  font-size: 5em;
+  margin-top: .5em;
+  margin-bottom: .1em;
+}
+
+.two h2 {
+  font-size: 2em;
+  line-height: 2em;
+  margin-bottom: 1.5em;
+  font-style: italic;
+}
+
+.two p {
+  margin-bottom: -1em;
+}
+
+.two p+p {
+  text-indent: 1.5em;
+}
+
+.two .intro {
+  font-size: 1.25em;
+  line-height: 1.5em;
+  margin-bottom: 2em;
+}
+
+.two cite {
+  text-transform: uppercase;
+}
+
+.intro .upper {
+  text-transform: uppercase;
+}
+
+.three {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.three h1 {
+    font-family: 'Arvo', serif;
+    font-size: 4.5em;
+    margin-top: .5em;
+    margin-bottom: .1em;
+}
+.three h2 {
+  font-size: 2em;
+  font-family: 'Arvo', serif;
+  line-height: 2em;
+  margin-bottom: 1.5em;
+  font-style: italic;
+}
+
+.three .intro {
+  font-size: 1.25em;
+  line-height: 1.5em;
+  margin-bottom: 2em;
+}
+
+.three blockquote {
+  font-family: 'Arvo', serif;
+}
