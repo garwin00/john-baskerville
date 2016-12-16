@@ -35,7 +35,7 @@ blockquote {
   font-family: 'Libre Baskerville', serif;
 }
 
-.one header h1 {
+.one h1 {
   font-size: 4em;
   margin-top: .5em;
   margin-bottom: .1em;
@@ -47,20 +47,16 @@ blockquote {
 }
 
 .one h2 {
-  font-size: 2.25em;
+  font-size: 1.8em;
   line-height: 1.5em;
   margin-bottom: 1.5em;
+  font-style: italic;
 }
 
 .one .intro {
   font-size: 1.25em;
   line-height: 1.5em;
   margin-bottom: 2em;
-}
-
-.one header h2 {
-  font-style: italic;
-  font-size: 1.8em;
 }
 
 cite {
@@ -78,7 +74,7 @@ cite {
   font-family: 'Open Sans', sans-serif;
 }
 
-.two header h1 {
+.two h1 {
   font-size: 5em;
   margin-top: .5em;
   margin-bottom: .1em;
