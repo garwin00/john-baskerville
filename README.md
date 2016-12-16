@@ -15,5 +15,9 @@
 
 [Version Five - Images](https://garwin00.github.io/john-baskerville/baskerville_five.html)
 
-### 28th Novenber
+### 28th November
 [Version Six - Initial CSS](https://garwin00.github.io/john-baskerville/baskerville_six.html)
+
+### 11th December
+[CSS Exercise](https://garwin00.github.io/john-baskerville/baskervillemakethis.html)
+
